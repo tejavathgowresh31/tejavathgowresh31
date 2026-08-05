@@ -1,6 +1,5 @@
-<!-- 🌈 Neon Glow Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Tejavath%20Gowresh%20Nayak&fontSize=50&fontColor=00F7FF&animation=fadeIn&stroke=00F7FF&strokeWidth=2&color=0:0f2027,50:203a43,100:2c5364"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Tejavath%20Gowresh%20Nayak&fontSize=48&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&color=gradient&customColorList=0,2,3,5,6,12,20,30"/>
 </p>
 <!-- ⚡ Typing Animation -->
 <p align="center">
