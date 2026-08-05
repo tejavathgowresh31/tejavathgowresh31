@@ -7,19 +7,20 @@
 <!-- ⚡ Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+Hi, I'm Tejavath Gowresh Nayak 👋
+A passionate Computer Science (AI & ML) student who loves building intelligent systems and real-world applications.
 
-✨ Passionate **AI & ML Developer** building intelligent systems
-🎓 B.Tech CSE (AI & ML) | 2023–2027
-🚀 Focused on **real-world AI projects & scalable applications**
-💡 Love blending **AI + Web Development**
-
----
+🎓 B.Tech CSE (AI & ML) student (2023–2027)
+🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
+💡 Skilled in Python, TensorFlow, PyTorch, and Data Science tools
+🌐 Exploring Full Stack Development (React, Node.js, MongoDB)
+🚀 Building projects in Computer Vision, NLP, and Web Applications
+📈 Always learning and improving problem-solving skills through coding
 
 ## 🌐 Connect With Me
 
@@ -42,8 +43,8 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejavathgowresh31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejavathgowresh31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tejavathgowresh31&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejavathgowresh31&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -51,11 +52,11 @@
 ## ⚡ Streak & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tejavathgowresh31&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+  <img src="https://streak-stats.demolab.com?user=tejavathgowresh31&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejavathgowresh31&theme=react-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejavathgowresh31&theme=tokyo-night"/>
 </p>
 
 ---
@@ -63,7 +64,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejavathgowresh31&theme=matrix&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tejavathgowresh31&theme=matrix&no-frame=true"/>
 </p>
 
 ---
