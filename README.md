@@ -1,91 +1,103 @@
-<!-- 🌌 HEADER -->
-<h1 align="center">Hi 👋, I'm Tejavath Gowresh Nayak</h1>
-<h3 align="center">🚀 AI & ML Student | Full Stack Developer</h3>
+<!-- 🌌 Neon Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tejavath%20Gowresh%20Nayak&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+</p>
 
----
-
-# 🌐 Connect With Me:
-
-<p align="left">
-  <a href="https://instagram.com/gowresh_nayak31">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/tejavathgowresh31">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tejavathgowresh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 💻 Tech Stack:
+## 👨‍💻 About Me
 
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Hi, I'm **Tejavath Gowresh Nayak** 👋  
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn)
-
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+🎓 B.Tech CSE (AI & ML) student (2023–2027)  
+🤖 Passionate about AI, ML & Deep Learning  
+💡 Skilled in Python, TensorFlow, PyTorch  
+🌐 Exploring Full Stack (React, Node, MongoDB)  
+🚀 Building CV, NLP & Web projects  
+📈 Always improving problem-solving skills  
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tejavathgowresh31&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=tejavathgowresh31&theme=tokyonight&hide_border=true" height="160"/>
+  <a href="https://linkedin.com/in/tejavathgowresh31"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:tejavathgowresh@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/gowresh_nayak31"><img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-# 🏆 Achievements
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejavathgowresh31&theme=matrix&no-frame=true"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,opencv,git,github,vscode,linux,docker,firebase&theme=dark" />
 </p>
 
 ---
 
-# 📈 Activity Graph
+## 🔥 GitHub Stats (Fixed)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejavathgowresh31&theme=tokyo-night"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tejavathgowresh31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  
+  <img src="https://streak-stats.demolab.com?user=tejavathgowresh31&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tejavathgowresh31&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🎯 Current Goals
+## 📈 Activity Graph (Fixed)
 
-- 🧠 Master AI & Deep Learning  
-- 🚀 Build real-world projects  
-- 📈 Improve DSA & System Design  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejavathgowresh31&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ---
+
+## 🏆 Achievements (Fixed)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tejavathgowresh31&theme=matrix&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+## 🎯 Current Mission
+
+🧠 Mastering Advanced AI & Deep Learning  
+⚙️ Building Production-Ready Projects  
+📈 Improving DSA & System Design  
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧬 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejavathgowresh31&label=Profile%20Views&color=00F7FF&style=flat"/>
+</p>
+
+---
+
+<!-- 🌌 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
 
 ⭐ *"Code in the dark. Shine in the future."*
