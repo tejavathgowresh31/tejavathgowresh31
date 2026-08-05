@@ -13,14 +13,22 @@
 👨‍💻 About Me
 
 Hi, I'm Tejavath Gowresh Nayak 👋
+
 A passionate Computer Science (AI & ML) student who loves building intelligent systems and real-world applications.
+
 ---
 🎓 B.Tech CSE (AI & ML) student (2023–2027)
+
 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
+
 💡 Skilled in Python, TensorFlow, PyTorch, and Data Science tools
+
 🌐 Exploring Full Stack Development (React, Node.js, MongoDB)
+
 🚀 Building projects in Computer Vision, NLP, and Web Applications
+
 📈 Always learning and improving problem-solving skills through coding
+
 ---
 Connect With Me
 
