@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Student;Full+Stack+Developer;Building+Projects+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ## 👨‍💻 About Me
-
-Hi, I'm **Tejavath Gowresh Nayak** 👋  
+Hey there, I'm Tejavath Gowresh Nayak! 🚀
+I am an aspiring AI Engineer & Python Developer with a strong foundation in Machine Learning, Deep Learning, and Full Stack Development.
+I enjoy transforming ideas into scalable applications and continuously improving my problem-solving skills through coding and real-world projects.  
 
 🎓 B.Tech CSE (AI & ML) student (2023–2027)  
 🤖 Passionate about AI, ML & Deep Learning  
@@ -108,9 +109,5 @@ Hi, I'm **Tejavath Gowresh Nayak** 👋
 
 ---
 
-<!-- 🌌 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
 
 ⭐ *"Code in the dark. Shine in the future."*
