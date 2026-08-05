@@ -41,21 +41,24 @@ Hi, I'm **Tejavath Gowresh Nayak** 👋
 
 ---
 
-## 🔥 GitHub Stats (Fixed)
+
+# 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tejavathgowresh31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  
-  <img src="https://streak-stats.demolab.com?user=tejavathgowresh31&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tejavathgowresh31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tejavathgowresh31&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejavathgowresh31&layout=donut&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tejavathgowresh31&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📈 Activity Graph (Fixed)
+## 📈 Activity Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejavathgowresh31&theme=tokyo-night&hide_border=true&area=true"/>
@@ -63,13 +66,6 @@ Hi, I'm **Tejavath Gowresh Nayak** 👋
 
 ---
 
-## 🏆 Achievements (Fixed)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejavathgowresh31&theme=matrix&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
 
 ## 🎯 Current Mission
 
