@@ -1,8 +1,7 @@
-<!-- 🌌 Neon Header Banner -->
+<!-- 🌈 Neon Glow Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tejavath%20Gowresh%20Nayak&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Tejavath%20Gowresh%20Nayak&fontSize=50&fontColor=00F7FF&animation=fadeIn&stroke=00F7FF&strokeWidth=2&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
-
 <!-- ⚡ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" />
