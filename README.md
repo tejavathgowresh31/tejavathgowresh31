@@ -22,7 +22,7 @@ A passionate Computer Science (AI & ML) student who loves building intelligent s
 🚀 Building projects in Computer Vision, NLP, and Web Applications
 📈 Always learning and improving problem-solving skills through coding
 ---
-## 🌐 Connect With Me
+Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/tejavathgowresh31"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
