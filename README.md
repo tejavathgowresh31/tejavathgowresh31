@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Tejavath%20Gowresh%20Nayak&fontSize=48&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&color=gradient&customColorList=0,2,3,5,6,12,20,30"/>
-</p>
-<!-- ⚡ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tejavath%20Gowresh%20Nayak&fontSize=40&fontColor=00F7FF&animation=fadeIn&color=0:000000,100:00F7FF"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Student;Full+Stack+Developer;Building+Projects+🚀"/>
+</p>
 
 ## 👨‍💻 About Me
 
