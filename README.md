@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 Hey there, I'm Tejavath Gowresh Nayak! 🚀
 I am an aspiring AI Engineer & Python Developer with a strong foundation in Machine Learning, Deep Learning, and Full Stack Development.
-I enjoy transforming ideas into scalable applications and continuously improving my problem-solving skills through coding and real-world projects.  
+I love transforming ideas into scalable applications and continuously improving my problem-solving skills through coding and real-world projects.  
 
 🎓 B.Tech CSE (AI & ML) student (2023–2027)  
 🤖 Passionate about AI, ML & Deep Learning  
@@ -23,11 +23,11 @@ I enjoy transforming ideas into scalable applications and continuously improving
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tejavathgowresh31"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="mailto:tejavathgowresh@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tejavathgowresh31.github.io/"><img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=000000&color=FFA500"/></a>
+  <a href="https://linkedin.com/in/tejavathgowresh31"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tejavathgowresh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/gowresh_nayak31"><img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
 ## 💻 Tech Stack:
 
 <p align="center">
@@ -59,14 +59,13 @@ I enjoy transforming ideas into scalable applications and continuously improving
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 
-</p>
-# 📊 GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tejavathgowresh31&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejavathgowresh31&theme=tokyonight&hide_border=true" height="170"/>
+ 
 </p>
 
----
 
 ## 📈 Activity Graph 
 
